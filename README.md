@@ -130,6 +130,7 @@ Whether you're a day trader, long-term investor, or DeFi researcher, this list c
 - [r/Bitcoin](https://reddit.com/r/Bitcoin) — Bitcoin community.
 - [r/ethfinance](https://reddit.com/r/ethfinance) — Ethereum finance discussion.
 - [Crypto Twitter](https://twitter.com/i/lists) — Follow key accounts for real-time alpha.
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 ---
 
